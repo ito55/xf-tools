@@ -1,7 +1,8 @@
 # Virtual environment
 venv/
 
-# Output files
+# working directories
+input/
 output/
 
 # --- Local / Private Files ---
