@@ -1,0 +1,3 @@
+# Main dependency for music processing
+music21
+mido
