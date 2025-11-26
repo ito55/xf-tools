@@ -5,6 +5,9 @@ venv/
 input/
 output/
 
+# refference documents
+docs/
+
 # --- Local / Private Files ---
 # Ignore specific licensed files that should not be committed to the repository.
 *yorunikakeru*
